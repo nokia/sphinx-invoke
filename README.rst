@@ -49,4 +49,4 @@ practices defined in crl-devutils_.
 License
 -------
 
-This project is licensed under the BSD-3-Clause license - see the [LICENSE](https://github.com/nokia/sphinx-invoke/blob/master/LICENSE).
+This project is licensed under the BSD-3-Clause license - see the `LICENSE <https://github.com/nokia/sphinx-invoke/blob/master/LICENSE>`_.
